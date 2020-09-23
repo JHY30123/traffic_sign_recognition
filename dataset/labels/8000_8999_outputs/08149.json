@@ -1,0 +1,1 @@
+{"path":"C:\\dataset\\CCTSDB\\image8000-8999\\08149.png","outputs":{"object":[{"name":"mandatory","bndbox":{"xmin":63,"ymin":20,"xmax":139,"ymax":89}},{"name":"mandatory","bndbox":{"xmin":453,"ymin":65,"xmax":466,"ymax":79}}]},"time_labeled":1600830060756,"labeled":true,"size":{"width":1000,"height":350,"depth":3}}

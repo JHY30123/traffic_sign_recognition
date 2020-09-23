@@ -1,0 +1,1 @@
+{"path":"C:\\dataset\\CCTSDB\\image8000-8999\\08492.png","outputs":{"object":[{"name":"prohibitory","bndbox":{"xmin":707,"ymin":25,"xmax":723,"ymax":43}},{"name":"mandatory","bndbox":{"xmin":515,"ymin":72,"xmax":528,"ymax":86}}]},"time_labeled":1600833374640,"labeled":true,"size":{"width":1000,"height":350,"depth":3}}
