@@ -1,1 +1,1 @@
-{"path":"C:\\dataset\\CCTSDB\\image8000-8999\\08985.png","outputs":{"object":[{"name":"warning","bndbox":{"xmin":865,"ymin":-3,"xmax":950,"ymax":41}}]},"time_labeled":1600853970892,"labeled":true,"size":{"width":1000,"height":350,"depth":3}}
+{"path":"C:\\dataset\\CCTSDB\\image8000-8999\\08985.png","outputs":{"object":[{"name":"warning","bndbox":{"xmin":865,"ymin":-3,"xmax":950,"ymax":41}},{"name":"prohibitory","bndbox":{"xmin":524,"ymin":62,"xmax":536,"ymax":74}}]},"time_labeled":1600912616472,"labeled":true,"size":{"width":1000,"height":350,"depth":3}}
