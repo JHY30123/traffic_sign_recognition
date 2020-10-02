@@ -1,1 +1,1 @@
-{"path":"C:\\dataset\\image\\test (7057).jpg","outputs":{},"time_labeled":0,"labeled":false}
+{"path":"C:\\dataset\\image\\test (7057).jpg","outputs":{"object":[{"name":"prohibitory","bndbox":{"xmin":498,"ymin":126,"xmax":546,"ymax":173}},{"name":"prohibitory","bndbox":{"xmin":300,"ymin":161,"xmax":319,"ymax":178}},{"name":"prohibitory","bndbox":{"xmin":301,"ymin":183,"xmax":319,"ymax":202}},{"name":"mandatory","bndbox":{"xmin":320,"ymin":187,"xmax":335,"ymax":205}}]},"time_labeled":1601642624153,"labeled":true,"size":{"width":640,"height":426,"depth":3}}
