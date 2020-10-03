@@ -1,1 +1,1 @@
-{"path":"C:\\dataset\\image\\test (8164).jpg","outputs":{},"time_labeled":0,"labeled":false}
+{"path":"C:\\Users\\Jiahui\\OneDrive\\桌面\\wa\\test (8164).jpg","outputs":{"object":[{"name":"mandatory","bndbox":{"xmin":455,"ymin":139,"xmax":498,"ymax":176}}]},"time_labeled":1601690998835,"labeled":true,"size":{"width":640,"height":426,"depth":3}}
