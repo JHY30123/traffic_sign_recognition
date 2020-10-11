@@ -20,4 +20,3 @@ for i in dirs:
                 result = str(clss)+" 0.00 0 0.0 "+str(int(box_lt[0]))+" "+str(int(box_lt[1]))+" "+str(int(box_rb[0]))+" "+str(int(box_rb[1]))+" 0.0 0.0 0.0 0.0 0.0 0.0 0.0\n"
                 print(result)
                 new_file.write(result)
-                new_file.close()
