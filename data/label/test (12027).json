@@ -1,0 +1,1 @@
+{"path":"C:\\dataset\\warning\\test (12027).png","outputs":{"object":[{"name":"warning","bndbox":{"xmin":454,"ymin":293,"xmax":503,"ymax":331}},{"name":"warning","bndbox":{"xmin":511,"ymin":295,"xmax":560,"ymax":333}}]},"time_labeled":1602901647049,"labeled":true,"size":{"width":1080,"height":720,"depth":3}}
