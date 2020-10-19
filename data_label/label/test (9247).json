@@ -1,0 +1,1 @@
+{"path":"/Users/apple/Desktop/wgw/test (9247).jpg","outputs":{"object":[{"name":"warning","bndbox":{"xmin":1444,"ymin":2212,"xmax":1628,"ymax":2364}},{"name":"mandatory","bndbox":{"xmin":1668,"ymin":2196,"xmax":1860,"ymax":2396}}]},"time_labeled":1601720419106,"labeled":true,"size":{"width":3096,"height":4128,"depth":3}}

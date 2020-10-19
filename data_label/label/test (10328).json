@@ -1,0 +1,1 @@
+{"path":"/Users/apple/Desktop/1000_re/test (10328).JPG","outputs":{"object":[{"name":"prohibitory","bndbox":{"xmin":3661,"ymin":1598,"xmax":3961,"ymax":1886}},{"name":"mandatory","bndbox":{"xmin":74,"ymin":1880,"xmax":236,"ymax":2035}}]},"time_labeled":1600958423526,"labeled":true,"size":{"width":5184,"height":3456,"depth":3}}

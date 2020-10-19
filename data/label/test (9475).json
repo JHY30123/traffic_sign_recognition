@@ -1,1 +1,0 @@
-{"path":"/Users/apple/Desktop/wgw/test (9475).JPG","outputs":{"object":[{"name":"prohibitory","bndbox":{"xmin":3320,"ymin":556,"xmax":3967,"ymax":1131}},{"name":"mandatory","bndbox":{"xmin":3422,"ymin":1167,"xmax":4008,"ymax":1742}}]},"time_labeled":1601723969635,"labeled":true,"size":{"width":5184,"height":3456,"depth":3}}

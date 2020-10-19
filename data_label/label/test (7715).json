@@ -1,0 +1,1 @@
+{"path":"C:\\Users\\Jiahui\\OneDrive\\桌面\\wa\\test (7715).jpg","outputs":{"object":[{"name":"prohibitory","bndbox":{"xmin":486,"ymin":137,"xmax":517,"ymax":170}},{"name":"mandatory","bndbox":{"xmin":562,"ymin":202,"xmax":578,"ymax":217}}]},"time_labeled":1601640911688,"labeled":true,"size":{"width":640,"height":426,"depth":3}}

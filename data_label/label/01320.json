@@ -1,0 +1,1 @@
+{"path":"/Users/apple/Desktop/CCTSDB-master/image1000-1999/01320.png","outputs":{"object":[{"name":"prohibitory","bndbox":{"xmin":410,"ymin":679,"xmax":431,"ymax":712}},{"name":"mandatory","bndbox":{"xmin":408,"ymin":645,"xmax":429,"ymax":672}}]},"time_labeled":1601300742189,"labeled":true,"size":{"width":641,"height":936,"depth":3}}

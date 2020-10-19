@@ -1,0 +1,1 @@
+{"path":"C:\\dataset\\image\\test (6705).jpg","outputs":{"object":[{"name":"prohibitory","bndbox":{"xmin":410,"ymin":102,"xmax":533,"ymax":205}}]},"time_labeled":1601607076686,"labeled":true,"size":{"width":640,"height":426,"depth":3}}

@@ -1,0 +1,1 @@
+{"path":"/Users/apple/Desktop/wgw-510/test (8397).JPG","outputs":{"object":[{"name":"warning","bndbox":{"xmin":3293,"ymin":1293,"xmax":3401,"ymax":1401}},{"name":"prohibitory","bndbox":{"xmin":1359,"ymin":1586,"xmax":1407,"ymax":1634}}]},"time_labeled":1601872777943,"labeled":true,"size":{"width":5184,"height":3456,"depth":3}}

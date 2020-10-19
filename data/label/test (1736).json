@@ -1,1 +1,0 @@
-{"path":"C:\\dataset\\image\\test (1736).bmp","outputs":{"object":[{"name":"mandatory","bndbox":{"xmin":432,"ymin":175,"xmax":471,"ymax":217}},{"name":"warning","bndbox":{"xmin":152,"ymin":164,"xmax":160,"ymax":172}},{"name":"warning","bndbox":{"xmin":60,"ymin":155,"xmax":70,"ymax":165}}]},"time_labeled":1601447558143,"labeled":true,"size":{"width":640,"height":480,"depth":3}}
