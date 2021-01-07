@@ -34,4 +34,4 @@ sudo docker start containerID
 
 sudo exec -it containerID /bin/bash
 ```
-The program could be trained after converting label format and path setting up. `inference.ipynb` is used on deploying pretrained model on Jetson platform.
+The model could be trained after converting label format and path setting up. `inference.ipynb` is used on deploying pretrained model on Jetson platform.
