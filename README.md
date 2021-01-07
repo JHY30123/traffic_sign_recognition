@@ -1,6 +1,6 @@
-# nvidia_traffic_sign
+# Nvidia Traffic Sign Recognition
 
-## 1. 环境配置
+## 1. Environment Describition
 ### Training 
 |               | Version         |
 |---------------|-----------------|
@@ -16,7 +16,7 @@
 | CUDNN    | 8.0.0            |
 | TensorRT | 7.1.0            |
 
-## 2. 相关命令
+## 2. Running
 ### Creating container and starting jupyter notebook
 ```bash
 sudo docker run --runtime=nvidia -it \
@@ -34,4 +34,4 @@ sudo docker start containerID
 
 sudo exec -it containerID /bin/bash
 ```
-
+The program could be trained after converting label format and path setting up. `inference.ipynb` is used on deploying pretrained model on Jetson platform.
